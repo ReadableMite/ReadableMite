@@ -11,7 +11,7 @@
 ---
 
 ### 📊 CRIMINAL INVESTIGATION DATA (STATS)
-<div>
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReadableMite&layout=compact&theme=tokyonight&title_color=A942F5&text_color=ffffff&hide_border=true" />
 </div>
 
