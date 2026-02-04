@@ -1,53 +1,48 @@
-## Hello World! I'm ReadableMite 👋
-
-<!--
-**ReadableMite/ReadableMite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#include iostream
-#include "JaneDoe_ZZZ.h"
+# 📂 Case File: ReadableMite.exe 🕵️‍♂️
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I5dXo4cGxmd3V2a3dpN3I0eG50aXA5bjluMHlrejRvdDV5ODhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z1cQsP01hYb4DrK9Rz/giphy.gif" width="600" alt="Jane Doe ZZZ">
   
   <h3>"Undercover? Just call it... playing a part." — Jane Doe</h3>
-</div>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Learning-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/University-Jember-yellow?style=for-the-badge&logo=university&logoColor=black">
-  </p>
+  <p><i>Special Response Team | Criminal Investigation Division</i></p>
 </div>
 
 ---
 
-### 🕵️‍♂️ Investigation Log: ReadableMite
+### 🖥️ System Diagnostics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReadableMite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+---
+
+### 🛠️ Investigation Toolkit (Tech Stack)
+
+| Category | Tools & Weapons |
+| :--- | :--- |
+| **Core Programming** | `C++`, `Luau (Roblox)`, `C#` |
+| **Gamedev Engines** | `Godot`, `Roblox Studio` |
+| **Operating System** | `Linux (Primary Operating Base)` |
+| **Current Target** | `University of Jember (UNEJ)` |
+
+---
+
+### 🕵️‍♂️ Investigation Log: [ENCRYPTED]
 
 ```cpp
+#include <iostream>
+#include "JaneDoe_ZZZ.h"
+
 class Developer {
 public:
-    string name         = "ReadableMite";
-    string location     = "Jember, Indonesia 🇮🇩";
-    string faction      = "Criminal Investigation Special Response Team";
-    string main         = "Jane Doe (Anomaly Physical)";
-    string instagram    = "@readablemite"
-
+    std::string name      = "ReadableMite";
+    std::string faction   = "Criminal Investigation Special Response Team";
+    std::string anomaly   = "Physical (Lethal)";
+    
     void currentStatus() {
-        std::cout << "Currently studying at University of Jember" << std::endl;
-        std::cout << "Mastering the art of C++ and Roblox Gamedev" << std::endl;
-    }
-
-    bool isUndercover() {
-        return true; // Fast, lethal, and hard to catch.
+        // [SCANNING FOR DATA...]
+        std::cout << "Mastering C++ at University of Jember" << std::endl;
+        std::cout << "Building 'Klandestin' - Post Apocalypse RPG" << std::endl;
     }
 };
