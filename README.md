@@ -25,21 +25,34 @@
 
 ---
 
-### 🕵️‍♂️ Investigation Log: [ENCRYPTED]
+### 🕵️‍♂️ Investigation Log: [SYSTEM_ERROR_TRACE]
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=A942F5&width=800&lines=sudo+./ReadableMite.exe+--debug;[WAIT]+Initializing+Kernel+Trace...;[ERROR]+Access+Denied:+Faction+Restricted;[SYSTEM]+Bypassing+NEPS+Firewall...;[OK]+Connection+Established+to+Jember_Node_01;[LOG]+Current+Objective:+Klandestin+RPG+Development;[DEBUG]+Jane+Doe+Anomaly+Level:+LETHAL">
+  <img alt="Debug Log" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=A942F5&width=800&lines=sudo+./ReadableMite.exe+--debug;[WAIT]+Initializing+Kernel+Trace...;[ERROR]+Access+Denied:+Faction+Restricted;[SYSTEM]+Bypassing+NEPS+Firewall...;[OK]+Connection+Established+to+Jember_Node_01;[LOG]+Current+Objective:+Klandestin+RPG+Development;[DEBUG]+Jane+Doe+Anomaly+Level:+LETHAL">
+</picture>
 
 ```cpp
+/* * CRITICAL_PROCESS_DIED: Accessing Encrypted Data
+ * Source: /usr/bin/jane_doe_zzz
+ * User: ReadableMite @ UNEJ_Node
+ */
+
 #include <iostream>
 #include "JaneDoe_ZZZ.h"
 
-class Developer {
-public:
-    std::string name      = "ReadableMite";
-    std::string location  = "Jember, Indonesia 🇮🇩";
-    std::string faction   = "Criminal Investigation Special Response Team";
-    std::string main      = "Jane Doe (Anomaly Physical)";
-
-    void currentStatus() {
-        std::cout << "Studying at University of Jember" << std::endl;
-        std::cout << "Developing: Klandestin (2D Top-Down RPG)" << std::endl;
+int main() {
+    Developer user("ReadableMite");
+    
+    try {
+        user.loadSkills({"C++", "Linux", "Godot"});
+        user.setTargetProject("Klandestin");
+        
+        while(user.isUndercover()) {
+            user.trackProgress(); // Status: ACTIVE
+        }
+    } catch (SystemError& e) {
+        std::cerr << "[CRITICAL] Shadow Investigation Interrupted" << std::endl;
+        return 0x8013141A; // Reference to your friend's error!
     }
 };
