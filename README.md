@@ -1,51 +1,56 @@
-# 📂 Case File: ReadableMite.exe 🕵️‍♂️
-
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I5dXo4cGxmd3V2a3dpN3I0eG50aXA5bjluMHlrejRvdDV5ODhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z1cQsP01hYb4DrK9Rz/giphy.gif" width="600" alt="Jane Doe ZZZ">
-  
-  <h3>"Undercover? Just call it... playing a part." — Jane Doe</h3>
+
+  <h1> 🐀 RAТ IN ТHE HOLE 🐀 </h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A942F5&center=true&vCenter=true&width=435&lines=Criminal+Investigation+Special+Response;Mastering+C%2B%2B+%26+Godot;Building+Project+Klandestin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A942F5&center=true&vCenter=true&width=500&lines=ANE_DOE_SYSTEM_ONLINE;PHYSICAL_ANOMALY_DETECTED;SCANNING_FOR_CRIMINALS...;UNDERCOVER_LOG_ACTIVE" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
-### 🖥️ System Diagnostics [AUTHORIZED ACCESS ONLY]
+### 📊 CRIMINAL INVESTIGATION DATA (STATS)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReadableMite&theme=tokyo-night&area=true&hide_border=true" width="800" alt="Activity Graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ReadableMite&show_icons=true&theme=transparent&title_color=A942F5&icon_color=A942F5&text_color=ffffff&hide_border=true&count_private=true" />
   <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReadableMite&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReadableMite&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReadableMite&layout=compact&theme=transparent&title_color=A942F5&text_color=ffffff&hide_border=true" />
 </div>
 
 ---
 
-### 🖥️ Root@ReadableMite:~# sudo apt upgrade Klandestin_Engine
+### 🕵️‍♂️ INTERROGATION LOG (ABOUT ME)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=A942F5&lines=Hit%3A1+http%3A%2F%2Frepository.unej.ac.id" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=A942F5&lines=Get%3A2+http%3A%2F%2Fsecurity.ubuntu.com" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=A942F5&lines=Reading+Package+Lists...+Done" />
+> **"You want to know what's in the shadows? Be careful... you might get bitten."**
 
-```cpp
-/* * SYSTEM LOG: /var/log/klandestin.log
- * HOST: Jember-Node-01 | OS: Linux_x64
- * STATUS: ACTIVE_INVESTIGATION
- */
+* **Subject Name:** ReadableMite / Agent Rat 🐀
+* **Current Territory:** [University of Jember](https://unej.ac.id)
+* **Specialization:** `C++` Development & `Godot` Architecture
+* **Primary Objective:** Project **Klandestin** (Top-Down RPG)
+* **Status:** Undercover in Jember Node.
 
-#include <iostream>
+---
 
-int main() {
-    // Reading local environment...
-    std::cout << "Loading: University of Jember Assets" << std::endl;
-    std::cout << "Target: Build Project Klandestin" << std::endl;
-    
-    // TRACE: 0x8013141A (DEBUG_RESOLVED)
-    // IDENTITY: Jane Doe Undercover Mode
-    
-    return 0; 
-};
+### ⚙️ TACTICAL GEAR (SKILLS)
+
+| ⚔️ Weaponry | 🛡️ Support Gear | 📡 Comms |
+| :--- | :--- | :--- |
+| **C++ / Luau** | **Linux (Arch/Ubuntu)** | **Instagram** |
+| **Godot Engine** | **VS Code / Vim** | **New Eridu Network** |
+| **Roblox Studio** | **Git / GitHub** | **Criminal Logs** |
+
+---
+
+### 📡 REAL-TIME ANOMALY TRACE (ACTIVITY)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReadableMite&theme=tokyo-night&area=true&hide_border=true&color=A942F5" width="800" />
+</p>
+
+---
+
+### 🧪 TRANSMISSION ENDS...
+<p align="left">
+<a href="https://instagram.com/readablemite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
