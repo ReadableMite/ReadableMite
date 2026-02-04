@@ -27,14 +27,14 @@
 
 ### 🖥️ Root@ReadableMite:~# sudo apt update && sudo apt upgrade -y
 
-<picture>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=A942F5&width=800&lines=Hit:1+http://repository.unej.ac.id+focal+InRelease;Get:2+http://security.ubuntu.com/ubuntu+focal-security+InRelease+[107+kB];Reading+package+lists...+Done;Building+dependency+tree...+Done;Reading+state+information...+Done;[PROCESS]+Scanning+JaneDoe_ZZZ+Signature...;[OK]+Signature+Validated+(Anomaly_Physical);[UPGRADING]+Klandestin_Engine+v0.1-alpha...;[####################]+100%;Setting+up+C%2B%2B_Compiler_Kit+(14.0.0.0)...;Processing+triggers+for+ReadableMite-Undercover-Mode...;Current+Status:+STABLE;Welcome,+Agent+Jane+Doe." alt="Linux Terminal Output" />
-</picture>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=A942F5&width=800&lines=Hit%3A1+http%3A%2F%2Frepository.unej.ac.id+focal+InRelease%3B;Get%3A2+http%3A%2F%2Fsecurity.ubuntu.com%2Fubuntu+focal-security%3B;Reading+package+lists...+Done%3B;Building+dependency+tree...+Done%3B;%5BPROCESS%5D+Scanning+JaneDoe_ZZZ+Signature...%3B;%5BOK%5D+Signature+Validated+(Anomaly_Physical)%3B;%5BUPGRADING%5D+Klandestin_Engine+v0.1-alpha...%3B;%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25%3B;Setting+up+C%2B%2B_Compiler_Kit+(14.0.0.0)...%3B;Welcome%2C+Agent+Jane+Doe." />
+</p>
 
 ```cpp
 /* * SYSTEM LOG: /var/log/klandestin.log
- * HOST: Jember-Node-01
- * STATUS: RUNNING...
+ * HOST: Jember-Node-01 | OS: Linux_x64
+ * STATUS: ACTIVE_INVESTIGATION
  */
 
 #include <iostream>
@@ -42,10 +42,10 @@
 int main() {
     // Reading local environment...
     std::cout << "Loading: University of Jember Assets" << std::endl;
-    std::cout << "Target: Build the ultimate 2D RPG" << std::endl;
+    std::cout << "Target: Build Project Klandestin" << std::endl;
     
-    // ERROR TRACE: 0x8013141A (Resolved)
-    // ACCESS: GRANTED
+    // TRACE: 0x8013141A (DEBUG_RESOLVED)
+    // IDENTITY: Jane Doe Undercover Mode
     
-    return 0; // Mission Accomplished.
+    return 0; 
 };
