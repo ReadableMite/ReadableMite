@@ -15,11 +15,12 @@
 ### 🖥️ System Diagnostics [AUTHORIZED ACCESS ONLY]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReadableMite&show_icons=true&theme=transparent&title_color=A942F5&icon_color=A942F5&text_color=ffffff&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReadableMite&theme=tokyo-night&area=true&hide_border=true" width="800" alt="Activity Graph" />
+
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReadableMite&layout=compact&theme=transparent&title_color=A942F5&text_color=ffffff&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReadableMite&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReadableMite&theme=tokyonight" alt="Stats Card" />
 </div>
 
 ---
