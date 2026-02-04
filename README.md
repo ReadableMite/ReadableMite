@@ -25,34 +25,27 @@
 
 ---
 
-### 🕵️‍♂️ Investigation Log: [SYSTEM_ERROR_TRACE]
+### 🖥️ Root@ReadableMite:~# sudo apt update && sudo apt upgrade -y
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=A942F5&width=800&lines=sudo+./ReadableMite.exe+--debug;[WAIT]+Initializing+Kernel+Trace...;[ERROR]+Access+Denied:+Faction+Restricted;[SYSTEM]+Bypassing+NEPS+Firewall...;[OK]+Connection+Established+to+Jember_Node_01;[LOG]+Current+Objective:+Klandestin+RPG+Development;[DEBUG]+Jane+Doe+Anomaly+Level:+LETHAL">
-  <img alt="Debug Log" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=A942F5&width=800&lines=sudo+./ReadableMite.exe+--debug;[WAIT]+Initializing+Kernel+Trace...;[ERROR]+Access+Denied:+Faction+Restricted;[SYSTEM]+Bypassing+NEPS+Firewall...;[OK]+Connection+Established+to+Jember_Node_01;[LOG]+Current+Objective:+Klandestin+RPG+Development;[DEBUG]+Jane+Doe+Anomaly+Level:+LETHAL">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=A942F5&width=800&lines=Hit:1+http://repository.unej.ac.id+focal+InRelease;Get:2+http://security.ubuntu.com/ubuntu+focal-security+InRelease+[107+kB];Reading+package+lists...+Done;Building+dependency+tree...+Done;Reading+state+information...+Done;[PROCESS]+Scanning+JaneDoe_ZZZ+Signature...;[OK]+Signature+Validated+(Anomaly_Physical);[UPGRADING]+Klandestin_Engine+v0.1-alpha...;[####################]+100%;Setting+up+C%2B%2B_Compiler_Kit+(14.0.0.0)...;Processing+triggers+for+ReadableMite-Undercover-Mode...;Current+Status:+STABLE;Welcome,+Agent+Jane+Doe." alt="Linux Terminal Output" />
 </picture>
 
 ```cpp
-/* * CRITICAL_PROCESS_DIED: Accessing Encrypted Data
- * Source: /usr/bin/jane_doe_zzz
- * User: ReadableMite @ UNEJ_Node
+/* * SYSTEM LOG: /var/log/klandestin.log
+ * HOST: Jember-Node-01
+ * STATUS: RUNNING...
  */
 
 #include <iostream>
-#include "JaneDoe_ZZZ.h"
 
 int main() {
-    Developer user("ReadableMite");
+    // Reading local environment...
+    std::cout << "Loading: University of Jember Assets" << std::endl;
+    std::cout << "Target: Build the ultimate 2D RPG" << std::endl;
     
-    try {
-        user.loadSkills({"C++", "Linux", "Godot"});
-        user.setTargetProject("Klandestin");
-        
-        while(user.isUndercover()) {
-            user.trackProgress(); // Status: ACTIVE
-        }
-    } catch (SystemError& e) {
-        std::cerr << "[CRITICAL] Shadow Investigation Interrupted" << std::endl;
-        return 0x8013141A; // Reference to your friend's error!
-    }
+    // ERROR TRACE: 0x8013141A (Resolved)
+    // ACCESS: GRANTED
+    
+    return 0; // Mission Accomplished.
 };
