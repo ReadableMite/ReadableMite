@@ -11,12 +11,7 @@
 ---
 
 ### 📊 CRIMINAL INVESTIGATION DATA (STATS)
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/ReadableMite?template=classic&config.timezone=Asia%2FJakarta&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=true&config.twemoji=true&theme=tokyonight" width="800" alt="Jane Doe Case File" />
-
-  <br/>
-
+<div>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReadableMite&layout=compact&theme=tokyonight&title_color=A942F5&text_color=ffffff&hide_border=true" />
 </div>
 
